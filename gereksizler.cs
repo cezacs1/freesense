@@ -20,7 +20,7 @@ namespace freesense
                 Console.WriteLine("m_vecLastClipCameraForward: " + m_vecLastClipCameraForward);
 
 
-                // 
+                // bu bi değer veriyor ama anlamadım aq
                 float m_flHitHeading = memory.Read<float>(csPlayerPawn + 0x1424);
                 //Console.WriteLine("m_flHitHeading: " + m_flHitHeading);
 
